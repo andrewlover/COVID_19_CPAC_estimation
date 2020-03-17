@@ -17,6 +17,11 @@ Link to paper
 https://works.bepress.com/andrew-lover/28/
 
 ---
+How to run analysis
+---
+Users can type `make` to run the analysis
+
+---
 Data
 ---
 Data is based on the CPAC conference and the folowing paper.
