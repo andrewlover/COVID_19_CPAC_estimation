@@ -1,5 +1,3 @@
-# COVID_19_CPAC_estimation
-
 ---
 Abstract
 ---
